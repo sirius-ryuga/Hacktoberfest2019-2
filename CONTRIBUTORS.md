@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+
+### Sirius Ryuga
+- Photo: https://avatars3.githubusercontent.com/u/12110855?s=460&v=4
+- Location: Ekaterinburg, Russian Federation
+- Bio: Junior Full-stack dev. Writer. UX/UI designer.
+- Github: https://github.com/sirius-ryuga
